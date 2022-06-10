@@ -1,6 +1,6 @@
 import React from 'react'
 import {Card,Button} from 'react-bootstrap'
-import IArticle from './types'
+import IArticle from '../types/types'
 import {Link} from 'react-router-dom'
 
 interface ArticleElementProps {
